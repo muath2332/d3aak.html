@@ -1,0 +1,24 @@
+.nav-name{
+    margin-right: 10px;
+}
+h3{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.mn{
+    display: block;
+    text-align: center;
+    color: #fff;
+    margin-top: 10px;
+    margin: 30px 25%;
+    padding: 20px;
+    width: 60%;
+    background-color: rgba(0, 0, 0, 0.568);
+    border-radius: 10px;
+    text-align: end;
+}
+li{
+    margin-top: 10px;
+    margin-right: 17px;
+    direction: rtl;
+}
