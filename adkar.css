@@ -9,7 +9,7 @@ body{
     flex-direction: column;
 }
 #button{
-    display: flex; gap: 5%;
+    display: flex; gap: 2%;
     align-items: center;
     justify-content: center;
     margin-top: 30px;
