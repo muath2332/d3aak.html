@@ -16,11 +16,12 @@ body{
     margin-bottom: 40px;
 }
 h2{
-    padding: 2% 30%;
     
+    padding: 2% 30%;
     border-radius: 100px;
     margin-bottom: 50px;
     text-align: center;
+    
 }
 p{
     padding: 4% 10%;
